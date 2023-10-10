@@ -6,7 +6,7 @@ from src.city import city_controller
 
 ALLOWED_HOSTS = ["*"]
 
-app = FastAPI()
+app = FastAPI(title="Bahamian Islands API", docs_url=None)
 
 app.add_middleware(SessionMiddleware, secret_key="secret-string")
 app.add_middleware(
