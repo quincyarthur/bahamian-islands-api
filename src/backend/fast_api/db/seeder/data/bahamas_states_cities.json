@@ -1,0 +1,1291 @@
+[
+    {
+        "id": null,
+        "name": "The Bahamas",
+        "iso3": "BHS",
+        "iso2": "BS",
+        "numeric_code": "044",
+        "phone_code": "+1-242",
+        "capital": "Nassau",
+        "currency": "BSD",
+        "currency_name": "Bahamian dollar",
+        "currency_symbol": "B$",
+        "tld": ".bs",
+        "native": "Bahamas",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "nationality": "Bahamian",
+        "timezones": [
+            {
+                "zoneName": "America\/Nassau",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America)"
+            }
+        ],
+        "translations": {
+            "kr": "바하마",
+            "pt-BR": "Bahamas",
+            "pt": "Baamas",
+            "nl": "Bahama’s",
+            "hr": "Bahami",
+            "fa": "باهاما",
+            "de": "Bahamas",
+            "es": "Bahamas",
+            "fr": "Bahamas",
+            "ja": "バハマ",
+            "it": "Bahamas",
+            "cn": "巴哈马",
+            "tr": "Bahamalar"
+        },
+        "latitude": "24.25000000",
+        "longitude": "-76.00000000",
+        "emoji": "🇧🇸",
+        "emojiU": "U+1F1E7 U+1F1F8",
+        "states": [
+            {
+                "id": null,
+                "name": "Acklins",
+                "state_code": "AC",
+                "latitude": "22.36577080",
+                "longitude": "-74.05351260",
+                "type": null,
+                "cities": [
+                    {
+                        "id": null,
+                        "name": "Delectable Bay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Lovely Bay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Snug Corner",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Golden Grove",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Spring Point",
+                        "latitude": "",
+                        "longitude": ""
+                    }
+                ]
+            },
+            {
+                "id": null,
+                "name": "Berry Islands",
+                "state_code": "BY",
+                "latitude": "25.62500420",
+                "longitude": "-77.82522030",
+                "type": null,
+                "cities": [
+                    {
+                        "id": null,
+                        "name": "Great Harbour Cay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Sturrup Cays",
+                        "latitude": "",
+                        "longitude": ""
+                    }
+                ]
+            },
+            {
+                "id": null,
+                "name": "Bimini",
+                "state_code": "BI",
+                "latitude": "24.64153250",
+                "longitude": "-79.85062260",
+                "type": null,
+                "cities": [
+                    {
+                        "id": null,
+                        "name": "Alice Town",
+                        "latitude": "25.72800000",
+                        "longitude": "-79.29721000"
+                    },
+                    {
+                        "id": null,
+                        "name": "North Bimini",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Bailey Town",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Paradise Point",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "South Bimini",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Gun Cay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Cat Cay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Ocean Cay",
+                        "latitude": "",
+                        "longitude": ""
+                    }
+                ]
+            },
+            {
+                "id": null,
+                "name": "Cat Island",
+                "state_code": "CI",
+                "latitude": "30.22801360",
+                "longitude": "-89.10149330",
+                "type": null,
+                "cities": [
+                    {
+                        "id": null,
+                        "name": "Arthur’s Town",
+                        "latitude": "24.62240000",
+                        "longitude": "-75.67151000"
+                    },
+                    {
+                        "id": null,
+                        "name": "New Bight",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Old Bight",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Dumfries",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Cove Settlement",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Harts Bay Hill",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Fernadez Bay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Bluff",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "The Hermitage",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Orange Creek",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Port Howe",
+                        "latitude": "",
+                        "longitude": ""
+                    }
+                ]
+            },
+            {
+                "id": null,
+                "name": "Crooked Island",
+                "state_code": "CK",
+                "latitude": "22.63909820",
+                "longitude": "-74.00650900",
+                "type": null,
+                "cities": [
+                    {
+                        "id": null,
+                        "name": "Colonel Hill",
+                        "latitude": "22.75450000",
+                        "longitude": "-74.20415000"
+                    },
+                    {
+                        "id": null,
+                        "name": "Pitt's Town",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Landrail Point",
+                        "latitude": "",
+                        "longitude": ""
+                    }
+                ]
+            },
+            {
+                "id": null,
+                "name": "Abaco",
+                "state_code": "",
+                "latitude": "",
+                "longitude": "",
+                "type": null,
+                "cities": [
+                    {
+                        "id": null,
+                        "name": "Marsh Harbour",
+                        "latitude": "26.52416530",
+                        "longitude": "-77.09098090"
+                    },
+                    {
+                        "id": null,
+                        "name": "Crown Haven",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Fox Town",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Cedar Harbour",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Cooper's Town",
+                        "latitude": "26.87137000",
+                        "longitude": "-77.51131000"
+                    },
+                    {
+                        "id": null,
+                        "name": "Treasure Cay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Central Pines",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Dundas Town",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Murphy Town",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Spring City",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Cherokee Sound",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Casuarina Point",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Bahama Palm Shores",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Long Beach",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Crossing Rocks",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Sandy Point",
+                        "latitude": "39.01454640",
+                        "longitude": "-76.39989250"
+                    },
+                    {
+                        "id": null,
+                        "name": "Green Turtle Cay",
+                        "latitude": "26.77471070",
+                        "longitude": "-77.32957080"
+                    },
+                    {
+                        "id": null,
+                        "name": "Great Guana Cay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Man-O-War Cay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Elbow Cay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Moore's Island",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Walker's Cay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Grand Cay",
+                        "latitude": "27.21626150",
+                        "longitude": "-78.32305590"
+                    },
+                    {
+                        "id": null,
+                        "name": "Hope Town",
+                        "latitude": "26.50095040",
+                        "longitude": "-76.99598720"
+                    },
+                    {
+                        "id": null,
+                        "name": "Castaway Cay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Little Harbour",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Hole-In-The-Wall",
+                        "latitude": "",
+                        "longitude": ""
+                    }
+                ]
+            },
+            {
+                "id": null,
+                "name": "Grand Bahama",
+                "state_code": "",
+                "latitude": "",
+                "longitude": "",
+                "type": null,
+                "cities": [
+                    {
+                        "id": null,
+                        "name": "High Rock",
+                        "latitude": "46.68434150",
+                        "longitude": "-121.90174610"
+                    },
+                    {
+                        "id": null,
+                        "name": "West End",
+                        "latitude": "26.68711000",
+                        "longitude": "-78.97702000"
+                    },
+                    {
+                        "id": null,
+                        "name": "Eight Mile Rock",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Hawksbill Creek",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Pinder's Point",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Lewis Yard",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Hunters",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Pelican Point",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "McClean Town",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Sweeting's Cay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Freeport",
+                        "latitude": "26.53333000",
+                        "longitude": "-78.70000000"
+                    },
+                    {
+                        "id": null,
+                        "name": "Lucaya",
+                        "latitude": "26.53333000",
+                        "longitude": "-78.66667000"
+                    }
+                ]
+            },
+            {
+                "id": null,
+                "name": "Exuma",
+                "state_code": "EX",
+                "latitude": "23.61925980",
+                "longitude": "-75.96954650",
+                "type": null,
+                "cities": [
+                    {
+                        "id": null,
+                        "name": "George Town",
+                        "latitude": "23.51616000",
+                        "longitude": "-75.78665000"
+                    },
+                    {
+                        "id": null,
+                        "name": "Bahama Sound",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Barraterre",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Black Point",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Curtis",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Farmer's Hill",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Forbes Hill",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Harts",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Hartswell",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Hooper's Bay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Little Farmer's Cay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Moss Town",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Mount Thompson",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Ramsey",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Roker's Point",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Rolle Town",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Rolleville",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Staniel Cay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Steventon",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Stocking Island",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Stuart Manor",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "The Ferry",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "The Forest",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Williams Town",
+                        "latitude": "",
+                        "longitude": ""
+                    }
+                ]
+            },
+            {
+                "id": null,
+                "name": "Andros",
+                "state_code": "",
+                "latitude": "",
+                "longitude": "",
+                "type": null,
+                "cities": [
+                    {
+                        "id": null,
+                        "name": "Andros Town",
+                        "latitude": "24.70502000",
+                        "longitude": "-77.76912000"
+                    },
+                    {
+                        "id": null,
+                        "name": "San Andros",
+                        "latitude": "25.06667000",
+                        "longitude": "-78.05000000"
+                    },
+                    {
+                        "id": null,
+                        "name": "Fresh Creek",
+                        "latitude": "40.65437560",
+                        "longitude": "-73.89479390"
+                    },
+                    {
+                        "id": null,
+                        "name": "Nicholls Town",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Lowe Sound",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Staniard Cay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Mangrove Cay",
+                        "latitude": "24.14814250",
+                        "longitude": "-77.76809520"
+                    },
+                    {
+                        "id": null,
+                        "name": "Driggs Hill",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Kemps Bay",
+                        "latitude": "24.02364000",
+                        "longitude": "-77.54534900"
+                    },
+                    {
+                        "id": null,
+                        "name": "Long Bay Cays",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "The Bluff",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Deep Creek",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Little Creek Pleasant Bay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Mars Bay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Smith's Hill",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Black Point",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Behring Point",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Cargill Creek",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Calabash Bay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Love Hill",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Stafford Creek",
+                        "latitude": "",
+                        "longitude": ""
+                    }
+                ]
+            },
+            {
+                "id": null,
+                "name": "Eleuthera",
+                "state_code": "",
+                "latitude": "",
+                "longitude": "",
+                "type": null,
+                "cities": [
+                    {
+                        "id": null,
+                        "name": "Governor's Harbour",
+                        "latitude": "25.19480960",
+                        "longitude": "-76.24396220"
+                    },
+                    {
+                        "id": null,
+                        "name": "Current Island",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Spanish Wells",
+                        "latitude": "25.54717000",
+                        "longitude": "-76.76405000"
+                    },
+                    {
+                        "id": null,
+                        "name": "Gregory Town",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "The Bluff",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Lower Bogue",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Upper Bogue",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Hatchet Bay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "James Cistern",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Palmetto Point",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Tarpum Bay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Rock Sound",
+                        "latitude": "39.01424430",
+                        "longitude": "-95.67089890"
+                    },
+                    {
+                        "id": null,
+                        "name": "Green Castle",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Wemyss Bight",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Savannah Sound",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Deep Creek",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Bannerman Town",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Cape Eleuthera",
+                        "latitude": "",
+                        "longitude": ""
+                    }
+                ]
+            },
+            {
+                "id": null,
+                "name": "Harbour Island",
+                "state_code": "HI",
+                "latitude": "25.50011000",
+                "longitude": "-76.63405110",
+                "type": null,
+                "cities": [
+                    {
+                        "id": null,
+                        "name": "Dunmore Town",
+                        "latitude": "25.50216000",
+                        "longitude": "-76.63633000"
+                    }
+                ]
+            },
+            {
+                "id": null,
+                "name": "Inagua",
+                "state_code": "IN",
+                "latitude": "21.06560660",
+                "longitude": "-73.32370800",
+                "type": null,
+                "cities": [
+                    {
+                        "id": null,
+                        "name": "Matthew Town",
+                        "latitude": "20.94982000",
+                        "longitude": "-73.67346000"
+                    }
+                ]
+            },
+            {
+                "id": null,
+                "name": "Long Island",
+                "state_code": "LI",
+                "latitude": "40.78914200",
+                "longitude": "-73.13496100",
+                "type": null,
+                "cities": [
+                    {
+                        "id": null,
+                        "name": "Clarence Town",
+                        "latitude": "23.10000000",
+                        "longitude": "-74.98333000"
+                    },
+                    {
+                        "id": null,
+                        "name": "Stella Maris",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Deadman's Cay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Simms",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Salt Pond",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Millerton",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Mangrove Bush",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Buckley's",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Mortimer's",
+                        "latitude": "",
+                        "longitude": ""
+                    }
+                ]
+            },
+            {
+                "id": null,
+                "name": "Mayaguana",
+                "state_code": "MG",
+                "latitude": "22.40177140",
+                "longitude": "-73.06413960",
+                "type": null,
+                "cities": [
+                    {
+                        "id": null,
+                        "name": "Abraham’s Bay",
+                        "latitude": "22.36667000",
+                        "longitude": "-72.96667000"
+                    },
+                    {
+                        "id": null,
+                        "name": "Betsy Bay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Pirate's Well",
+                        "latitude": "",
+                        "longitude": ""
+                    }
+                ]
+            },
+            {
+                "id": null,
+                "name": "New Providence",
+                "state_code": "NP",
+                "latitude": "40.69843480",
+                "longitude": "-74.40154050",
+                "type": null,
+                "cities": [
+                    {
+                        "id": 143913,
+                        "name": "Nassau",
+                        "latitude": "25.06666667",
+                        "longitude": "-77.33333333"
+                    },
+                    {
+                        "id": null,
+                        "name": "Grants Town",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Bain Town",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Fox Hill",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Adelaide",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Yamacraw",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "South Beach",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Coral Harbour",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Lyford Cay",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Paradise Island",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Sea Breeze",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Centreville",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "The Grove (South)",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "The Grove (West Bay)",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Cable Beach",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Delaporte",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Gambier",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Love Beach",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Carmichael",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Killarney",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Elizabeth",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Englerston",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Fort Charlotte",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Garden Hills",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Golden Gates",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Marathon",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Nassau Village",
+                        "latitude": "",
+                        "longitude": ""
+                    },
+                    {
+                        "id": null,
+                        "name": "Pinewood",
+                        "latitude": "",
+                        "longitude": ""
+                    }
+                ]
+            },
+            {
+                "id": null,
+                "name": "Ragged Island",
+                "state_code": "RI",
+                "latitude": "41.59743100",
+                "longitude": "-71.26020200",
+                "type": null,
+                "cities": [
+                    {
+                        "id": null,
+                        "name": "Duncan Town",
+                        "latitude": "22.19083000",
+                        "longitude": "-75.72583000"
+                    }
+                ]
+            },
+            {
+                "id": null,
+                "name": "Rum Cay",
+                "state_code": "RC",
+                "latitude": "23.68546760",
+                "longitude": "-74.83901620",
+                "type": null,
+                "cities": [
+                    {
+                        "id": null,
+                        "name": "Port Nelson",
+                        "latitude": "23.64967000",
+                        "longitude": "-74.84157000"
+                    }
+                ]
+            },
+            {
+                "id": null,
+                "name": "San Salvador",
+                "state_code": "SS",
+                "latitude": "24.07755460",
+                "longitude": "-74.47600880",
+                "type": null,
+                "cities": [
+                    {
+                        "id": null,
+                        "name": "Cockburn Town",
+                        "latitude": "24.05179000",
+                        "longitude": "-74.53138000"
+                    },
+                    {
+                        "id": null,
+                        "name": "Long Bay",
+                        "latitude": "",
+                        "longitude": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

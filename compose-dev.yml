@@ -1,0 +1,45 @@
+services:
+  api:
+    container_name: islands-api
+    build:
+      context: ./src/backend/fast_api
+    command: >
+      sh -c "alembic upgrade head && python /usr/src/app/db/seeder/seed.py && python -m uvicorn main:app --host 0.0.0.0 --port 3000 --reload"
+    volumes:
+      - ./src/backend/fast_api:/usr/src/app
+    env_file:
+      - .env
+    ports:
+      - 3000:3000
+    depends_on:
+      - db
+
+  db:
+    container_name: islands-db
+    image: postgres:15.1-alpine
+    volumes:
+      - bahamian_islands_data:/var/lib/postgresql/data/
+    env_file:
+      - .env
+    ports:
+      - 5432:5432
+
+  test_db:
+    container_name: islands-test-db
+    image: postgres:15.1-alpine
+    volumes:
+      - test_bahamian_islands_data:/var/lib/postgresql/data/
+    env_file:
+      - .env
+    environment:
+      POSTGRES_USER: ${TEST_POSTGRES_USER}
+      POSTGRES_PASSWORD: ${TEST_POSTGRES_PASSWORD}
+      POSTGRES_DB: ${TEST_POSTGRES_DB}
+      POSTGRES_HOST: ${TEST_POSTGRES_HOST}
+      POSTGRES_PORT: ${TEST_POSTGRES_PORT}
+    ports:
+      - 5433:5432
+
+volumes:
+  bahamian_islands_data:
+  test_bahamian_islands_data:
