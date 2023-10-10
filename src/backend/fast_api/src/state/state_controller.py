@@ -15,6 +15,9 @@ router = APIRouter(
 )
 async def get_states(
     country_name: str = "The Bahamas",
+    include_cities: bool = False,
     state_service: StateService = Depends(StateService),
 ):
-    return await state_service.get_states_by_country(country_name=country_name)
+    return await state_service.get_states_by_country(
+        country_name=country_name, include_cities=include_cities
+    )
