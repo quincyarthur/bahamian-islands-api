@@ -10,9 +10,7 @@ class StateService:
     def __init__(self, state_repo: StateRepo = Depends(StateRepo)):
         self.state_repo = state_repo
 
-    async def get_states_by_country(
-        self, country_name: str
-    ) -> List[StateDTO] | HTTPException:
+    async def get_states_by_country(self, country_name: str) -> List[StateDTO]:
         states = await self.state_repo.get_states_by_country(country_name=country_name)
         if not states:
             raise HTTPException(status_code=status.HTTP_404_NOT_FOUND)
